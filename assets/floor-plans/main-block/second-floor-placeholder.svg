@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Second Floor Plan Placeholder</title>
+  <desc id="desc">A floor plan image has not been added to this project yet.</desc>
+  <rect width="1200" height="800" fill="#101820"/>
+  <rect x="48" y="48" width="1104" height="704" rx="24" fill="#151f29" stroke="#314252" stroke-width="3" stroke-dasharray="12 12"/>
+  <g fill="#dce7f0" font-family="Inter, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="340" font-size="58" font-weight="600">Second Floor Plan</text>
+    <text x="600" y="410" font-size="30" fill="#a9bac9">Floor plan image not added to this project yet</text>
+    <text x="600" y="475" font-size="24" fill="#7fc8d5">Add the approved plan and update its path in config.js</text>
+  </g>
+</svg>
